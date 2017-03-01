@@ -3,7 +3,6 @@ title: Hello World
 date: 2017-03-01 16:34
 tags:
   hello
-  init
 categories:
   init
 ---
