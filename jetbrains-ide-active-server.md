@@ -24,7 +24,7 @@ categories:
 <center>![image_1busn3u1urfekhh6tq1n48g3u9.png-25.2kB][4]
 
 ## 自建公网服务器
-1. 同样是下载[服务器搭建程序包][5]
+1. 同样是下载[服务器搭建程序包][5]   备份链接: https://pan.baidu.com/s/1dGxchlJ 密码: 1k6w
 2. 执行 *tar zxvf IntelliJIDEALicenseServer\(v1.5\).tar.gz*，解压文件，文件内容如下。
 <center>![image_1buso1b3av8ricp1nkmp116ram.png-75.7kB][6]
 3. 根据自身机器的系统情况，选择对应的程序，本例中是：linux 64 位系统，所以我将 *IntelliJIDEALicenseServer_linux_amd64* 单独提出，并重命名为 *IdeaServer*。（文件名太长，命令也太长）
